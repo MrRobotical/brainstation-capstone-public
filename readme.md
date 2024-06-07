@@ -26,9 +26,11 @@ https://guileless-lollipop-bfcdfe.netlify.app/
 - Social Sharing: Via the browser share API.
 
 
-##Sitemap
+## Sitemap
 -Welcome/Register Page
 -Login Page
 -Home Page
 -Movie Details Page: Detailed info on selected movies
 -User Profile Page
+
+
