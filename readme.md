@@ -33,4 +33,19 @@ https://guileless-lollipop-bfcdfe.netlify.app/
 -Movie Details Page: Detailed info on selected movies
 -User Profile Page
 
+<br><br><br>
+![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-2.png)
+![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-3.png)
+![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-4.png)
+![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-5.png)
+![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-6.png)
+![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-7.png)
+![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-8.png)
+
+
+
+
+
+
+
 
