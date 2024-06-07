@@ -1,4 +1,4 @@
-![Welcome Page]((https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-welcome-page.png)
+![Welcome Page](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-welcome-page.png)
 
 Pixl was my capstone project at Brainstation.io. Built with React, Firebase, and Stripe, Pixl simplifies movie discovery with features like user authentication, CRUD functionality, interactive components, and secure payments. Explore and preview movies effortlessly.
 
