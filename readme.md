@@ -35,11 +35,17 @@ https://guileless-lollipop-bfcdfe.netlify.app/
 
 <br><br><br>
 ![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-2.png)
+<br><br><br>
 ![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-3.png)
+<br><br><br>
 ![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-4.png)
+<br><br><br>
 ![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-5.png)
+<br><br><br>
 ![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-6.png)
+<br><br><br>
 ![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-7.png)
+<br><br><br>
 ![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-8.png)
 
 
