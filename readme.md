@@ -27,11 +27,11 @@ https://guileless-lollipop-bfcdfe.netlify.app/
 
 
 ## Sitemap
--Welcome/Register Page
--Login Page
--Home Page
--Movie Details Page: Detailed info on selected movies
--User Profile Page
+- Welcome/Register Page
+- Login Page
+- Home Page
+- Movie Details Page: Detailed info on selected movies
+- User Profile Page
 
 <br><br><br>
 ![Photo](https://github.com/MrRobotical/brainstation-capstone-public/blob/main/pixl-2.png)
